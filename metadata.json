@@ -1,0 +1,6 @@
+{
+  "name": "ASAW Consultancy Services - Business & Legal Platform",
+  "description": "Register your company, build modern websites, deploy business automations, file GST returns, and manage compliance with ASAW Consultancy Services. Headquarters: Near Ram Katha Park, Gomti Nagar, Lucknow, Uttar Pradesh, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
